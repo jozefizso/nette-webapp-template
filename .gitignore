@@ -1,0 +1,13 @@
+# SublimeText project files
+*.sublime-workspace
+
+# Nette Composer
+/composer.lock
+
+# Nette application folders
+/log/*
+!/log/.htaccess
+/temp/*
+!/temp/.htaccess
+/deployment/*.log
+/.htdeployment
