@@ -9,5 +9,5 @@
 !/log/.htaccess
 /temp/*
 !/temp/.htaccess
-/deployment/*.log
+/*.log
 /.htdeployment
